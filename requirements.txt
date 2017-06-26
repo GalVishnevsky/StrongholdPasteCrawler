@@ -1,0 +1,5 @@
+requests==2.13.0
+lxml==3.7.3
+tinydb==3.2.2
+tinydb-serialization==1.0.4
+Flask==0.12.1
